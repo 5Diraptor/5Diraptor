@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm a casual web dev with experience in CMS's like in Wordpress and Magento and a good all round understanding of the stack.  I code full stack applications and create web projects for a hobby.
 
