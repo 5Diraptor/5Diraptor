@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a casual web dev with experience devloping in Wordpress, with a bit of Magento and Squarespace knowledge.  I like to code full stack applications and create web projects from for a hobby.
+I'm a casual web dev with experience in CMS's like in Wordpress and Magento and a good all round understanding of the stack.  I like to code full stack applications and create web projects from for a hobby.
 
 <!--
 **5Diraptor/5Diraptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
