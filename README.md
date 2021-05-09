@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a casual web dev with experience in CMS's like in Wordpress and Magento and a good all round understanding of the stack.  I create full stack applications and web projects for a hobby.
+I'm a casual web dev with experience in CMS's like in Wordpress and Magento and a good all round understanding of the stack.  I create full stack applications and web projects for a hobby.  I'm currently working on some custom wordpress plugins and trying to get a deeper understanding of how wordpress works with SQL.
 
 <!--
 **5Diraptor/5Diraptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
