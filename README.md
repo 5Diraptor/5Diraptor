@@ -1,17 +1,47 @@
 
-<head>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
-  <link rel="stylesheet" type="text/css" media=”screen” href="https://raw.githubusercontent.com/5Diraptor/5Diraptor/main/css.css">
-</head>
-<body>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=36&duration=3000&color=e7328a&width=500&height=75&lines=The+5Diraptor;Web+Developer;)](https://git.io/typing-svg)
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=2454F7&width=401&height=51&lines=The+5Diraptor;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
-  
 ### Hello there 👋
 
-I'm a casual web developer with experience in CMS's like in Wordpress and Magento and a good all round understanding of the stack.  I create full stack applications and web projects for a hobby.  I'm currently working on some custom wordpress plugins and gaining a deeper insight of how wordpress works with SQL.
+##### Me on a line:
+* I'm a casual full-stack web developer.  I create web apps and work on web-based projects for a hobby.
 
-</body>
+##### [/Now:](https://nownownow.com "See the Now project")
+* I'm currently working on some custom wordpress plugins and gaining a deeper insight of how wordpress works with SQL.
+
+##### Next:
+* I'd like to use my experience and enjoyment of developing webapps to build something that could earn me a living on it's own
+
+
+### Some stuff
+* Built a chrome extension that removes ads and promoted material from Linkedin [goto repo](https://github.com/5Diraptor/ "Visit the repository for this project")
+* Built a wordpress plugin for creating an audio playlist [goto repo](https://github.com/5Diraptor/ "Visit the repository for this project")
+
+```javascript
+function sayhello() { alert("Hello!");};
+window.onload = sayhello();
+const hello = "str"
+echo hello
+
+
+
+```
+
+```html
+<body><div>test</div></body>
+```
+
+```css
+testing this <boom>
+#none
+
+and again {
+  base: none;
+  color: green;
+  }
+```
+
+
 
 
 <!--
