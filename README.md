@@ -1,6 +1,10 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=36&duration=3000&color=e7328a&width=500&height=75&lines=The+5Diraptor;Web+Developer;)](https://git.io/typing-svg)
 
+[![Typing SVG](https://github.com/5Diraptor/5Diraptor/raw/main/readme.svg)](https://git.io/typing-svg)
+
+https://github.com/5Diraptor/5Diraptor/raw/main/readme.msvg
+
 ### Hello there 👋
 
 ##### Me on a line:
