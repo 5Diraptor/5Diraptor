@@ -5,6 +5,8 @@
 </head>
 <body>
 
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=2454F7&width=401&height=51&lines=The+5Diraptor;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+  
 ### Hello there 👋
 
 I'm a casual web developer with experience in CMS's like in Wordpress and Magento and a good all round understanding of the stack.  I create full stack applications and web projects for a hobby.  I'm currently working on some custom wordpress plugins and gaining a deeper insight of how wordpress works with SQL.
