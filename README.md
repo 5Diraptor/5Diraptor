@@ -1,17 +1,13 @@
 
 <head>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
-<style>
-body {
-  font-family: "Sofia", sans-serif;
-}
-</style>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+  <link rel="stylesheet" type="text/css" media=”screen” href="https://raw.githubusercontent.com/5Diraptor/5Diraptor/main/css.css">
 </head>
 <body>
 
 ### Hello there 👋
 
-I'm a casual web dev with experience in CMS's like in Wordpress and Magento and a good all round understanding of the stack.  I create full stack applications and web projects for a hobby.  I'm currently working on some custom wordpress plugins and gaining a deeper insight of how wordpress works with SQL.
+I'm a casual web developer with experience in CMS's like in Wordpress and Magento and a good all round understanding of the stack.  I create full stack applications and web projects for a hobby.  I'm currently working on some custom wordpress plugins and gaining a deeper insight of how wordpress works with SQL.
 
 </body>
 
