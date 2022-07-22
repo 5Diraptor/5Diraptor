@@ -3,23 +3,37 @@
 
 [![Typing SVG](https://github.com/5Diraptor/5Diraptor/raw/main/readme.svg)](https://git.io/typing-svg)
 
-https://github.com/5Diraptor/5Diraptor/raw/main/readme.msvg
 
 ### Hello there 👋
 
-##### Me on a line:
-* I'm a casual full-stack web developer.  I create web apps and work on web-based projects for a hobby.
+##### [Me: ](https://5Diraptor.com "Visit my dev website")I'm a casual full-stack web developer.  I create web apps and work on web-based projects for a hobby.
 
-##### [/Now:](https://nownownow.com "See the Now project")
-* I'm currently working on some custom wordpress plugins and gaining a deeper insight of how wordpress works with SQL.
+##### [/Now: ](https://nownownow.com "See the Now project")I'm currently working on some custom wordpress plugins and gaining a deeper insight of how wordpress works with SQL.
 
-##### Next:
-* I'd like to use my experience and enjoyment of developing webapps to build something that could earn me a living on it's own
+##### Next: I'd like to use my experience and enjoyment of developing webapps to build something that could earn me a living on it's own
 
+### Shout out
 
-### Some stuff
+### Some stuff I'm dead chuffed about:
 * Built a chrome extension that removes ads and promoted material from Linkedin [goto repo](https://github.com/5Diraptor/ "Visit the repository for this project")
 * Built a wordpress plugin for creating an audio playlist [goto repo](https://github.com/5Diraptor/ "Visit the repository for this project")
+
+Stuff I like
+* Cows and chickens
+* Turbo engines
+* 
+
+Stuff I don't like
+
+
+### Web dev apps to use:
+vivaldi
+Winscp
+notepad++
+
+
+https://phpsandbox.io
+
 
 ```javascript
 function sayhello() { alert("Hello!");};
