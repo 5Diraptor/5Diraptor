@@ -33,15 +33,37 @@
 [Here's a shout out to a few projects that I think are particularly outstanding.](https://github.com/stars/5Diraptor/lists/shout-out).
 
 ### Some stuff I'm dead chuffed about:
-* Built a chrome extension that removes ads and promoted material from Linkedin [goto repo](https://github.com/5Diraptor/ "Visit the repository for this project")
+* Built a chrome extension that removes ads and promoted posts from Linkedin [goto repo](https://github.com/5Diraptor/ "Visit the repository for this project")
 * Built a wordpress plugin for creating an audio playlist [goto repo](https://github.com/5Diraptor/ "Visit the repository for this project")
 * [Built a Wordle answer cracking tool](https://5diraptor.com/toolkit/cracking-wordle/).  This uses a massive database to analyse the next best possible wordle answer - based on what YOU put in.
+
+### Some cool stuff:
+* people to follow  https://github.com/5Diraptor?tab=following
+* people that think i'm cool  https://github.com/5Diraptor?tab=followers
+
+
+
+<!--
+
+
+
+### Bookmarks I think you should add to your Raindrop bookmark manager
+Github 
+Stack exchange
+MDN
+// link to public bookmarks  https://raindrop.io/5Diraptor/recommended-websites-26023025
+
+
+
 
 ### Web dev apps to use:
 vivaldi
 Winscp
 notepad++
-
+online code sandbox
+	html, js, css = codepen and jsfiddle
+	php = https://phpsandbox.io & https://onlinephp.io
+-->
 
 ```javascript
 function sayhello() { alert("Hello!");};
