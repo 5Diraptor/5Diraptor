@@ -1,14 +1,10 @@
-
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Syne+Mono&size=36&duration=3000&color=e7328a&width=500&height=75&lines=The+5Diraptor;Web+Developer;)](https://git.io/typing-svg)
-
-[![Typing SVG](https://github.com/5Diraptor/5Diraptor/raw/main/readme.svg)](https://git.io/typing-svg)
-
+[![Typing SVG](https://github.com/5Diraptor/5Diraptor/raw/main/OLDreadme.svg)](https://git.io/typing-svg)
 
 ### Hello there 👋
 
 ##### [Me: ](https://5Diraptor.com "Visit my dev website")I'm a casual full-stack web developer.  I create web apps and work on web-based projects for a hobby.
 
-##### [/Now: ](https://nownownow.com "See the Now project")I'm currently working on some custom wordpress plugins and gaining a deeper insight of how wordpress works with SQL.
+##### [/Now: ](https://nownownow.com "See the /Now project")I'm currently working on some custom wordpress plugins and gaining a deeper insight of how wordpress works with SQL.
 
 ##### Next: I'd like to use my experience and enjoyment of developing webapps to build something that could earn me a living on it's own
 
@@ -20,8 +16,9 @@
 
 Stuff I like
 * Cows and chickens
-* Turbo engines
-* 
+* Petrol engines
+* Hitting things with a hammer
+
 
 Stuff I don't like
 
@@ -30,12 +27,6 @@ Stuff I don't like
 vivaldi
 Winscp
 notepad++
-
-
-[![Bookmarks](https://github.com/5Diraptor/5Diraptor/raw/main/raindrop.svg)](https://git.io/typing-svg)
-
-![Alt text](./controllers_brief.svg)
-<img src="/raindrop.svg">
 
 
 ```javascript
