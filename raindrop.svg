@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <iframe src="content.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+      <iframe style="position: absolute; top: 0; left: 0; border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/5Diraptor/recommended-websites-26023025/embed/theme=dark"></iframe>
+    </foreignObject>
+</svg>
