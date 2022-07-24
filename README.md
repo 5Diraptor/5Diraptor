@@ -3,7 +3,7 @@
 	<img style="height:60px; width:auto; " src="https://github.com/5Diraptor/5Diraptor/raw/main/readme.svg">
 </span>
 
-[![Typing SVG](https://github.com/5Diraptor/5Diraptor/raw/main/readme.svg)](https://git.io/typing-svg)
+
 
 ### Hello there 👋
 
