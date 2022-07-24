@@ -1,4 +1,9 @@
-<img style="height:75px; width:75px" src="https://5diraptor.com/wp-content/uploads/2021/05/Asset-3.png">[![Typing SVG](https://github.com/5Diraptor/5Diraptor/raw/main/readme.svg)](https://git.io/typing-svg)
+<span>
+	<img style="height:60px; width:60px; " src="https://5diraptor.com/wp-content/uploads/2021/05/Asset-3.png">
+	<img style="height:60px; width:auto; " src="https://github.com/5Diraptor/5Diraptor/raw/main/readme.svg">
+</span>
+
+[![Typing SVG](https://github.com/5Diraptor/5Diraptor/raw/main/readme.svg)](https://git.io/typing-svg)
 
 ### Hello there 👋
 
@@ -44,7 +49,7 @@
 
 
 <!--
-
+[![Typing SVG](https://github.com/5Diraptor/5Diraptor/raw/main/readme.svg)](https://git.io/typing-svg)
 
 
 ### Bookmarks I think you should add to your Raindrop bookmark manager
