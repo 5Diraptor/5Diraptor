@@ -21,16 +21,14 @@
 	<li>Cows and chickens</li>
         <li>Turbo engines</li>
         <li>Go-karts</li>
-        <li>A cup of tea</li>
-        <li>Hitting things with hammers</li>
-        <li>Being noisy</li>
+				<li>A cup of tea</li>
       </ul>
     </td>
   </tr>
 </tbody></table>
 
 ### Shout out
-[Here's a shout out to a few projects that I think are particularly outstanding.](https://github.com/stars/5Diraptor/lists/shout-out "Seriously, some projects here on github have saved my arse, if I meet the creators in person I'd give them a jolly good hearty slap on the back.").
+🌟🥑[Here's a shout out to a few projects that I think are particularly outstanding.](https://github.com/stars/5Diraptor/lists/shout-out "Seriously, some projects here on github have saved my arse, if I meet the creators in person I'd give them a jolly good hearty slap on the back."). 💎⭐
 
 ### Some little projects I'm dead chuffed about:
 * Built a chrome extension that removes ads and promoted posts from Linkedin.  [Give it a whirl](https://chrome.google.com/webstore/detail/cleanup-linkedin/jpnappbebbldpfefhgfphjpjfcdkonac?hl=en-GB) or [goto repo](https://github.com/5Diraptor/ "Visit the repository for this project").
@@ -42,30 +40,11 @@
 * [People with good taste 😜](https://github.com/5Diraptor?tab=followers "People that follow me.  Why?")
 
 ### Recs
+* <a href="https://raindrop.io/5Diraptor/recommended-websites-26023025" title="visit my bookmarks page for more ideas">Bookmarks I think you should add</a>
+* <a href="https://raindrop.io/5Diraptor/website-development-software-26152008" title="visit my bookmarks page for more ideas">Software</a>
+* <a href="https://raindrop.io/5Diraptor/useful-tools-26152035" title="visit my bookmarks page for more ideas">Other web tools</a>
 
-<table style="border: 0;"><tbody>
-  <tr style="border: 0;">
-    <td style="border: 0; border-width: 0;">
-      Web dev software
-      <ul>
-				<li><a href="https://notepad-plus-plus.org/downloads/" title ="This is a solid notepad editor for writing any code you want.">Notepad++</a></li>
-				<li><a href="https://vivaldi.com/download/" title ="The no.1 web browser in my estimation and I've tried most of them.">Vivaldi</a></li>
-      </ul>
-    </td>
-    <td>
-      Useful websites
-      <ul>
-				<li><a href="/" title="obviously">Github</a></li>
-				<li><a href="https://stackexchange.com" title="prefer a stack of cash though, personally">Stack Exchange</a></li>
-				<li><a href=""></a></li>
-        <li>Go-karts</li>
-				<li><a href="https://raindrop.io/5Diraptor/recommended-websites-26023025" title="visit my bookmarks page for more ideas">and more...</a></li>
-      </ul>
-    </td>
-  </tr>
-</tbody></table>
 
-### Back to me
 
 
 <!--
