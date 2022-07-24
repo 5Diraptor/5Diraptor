@@ -19,7 +19,7 @@
     text {
       font-family: "Syne Mono", monospace;
       fill: var(--pink);
-      font-size:45px;
+      font-size:40px;
     }
   </style>
   
