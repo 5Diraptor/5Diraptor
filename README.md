@@ -42,9 +42,9 @@
 * Built a wordpress plugin for creating an audio playlist [goto repo](https://github.com/5Diraptor/ "Visit the repository for this project")
 * [Built a Wordle answer cracking tool](https://5diraptor.com/toolkit/cracking-wordle/).  This uses a massive database to analyse the next best possible wordle answer - based on what YOU put in.
 
-### Some cool stuff:
-* people to follow  https://github.com/5Diraptor?tab=following
-* people that think i'm cool  https://github.com/5Diraptor?tab=followers
+### People that aren't gits 😁
+* [Interesting people to follow](https://github.com/5Diraptor?tab=following)
+* [Oh and there's more 😜](https://github.com/5Diraptor?tab=followers)
 
 
 
