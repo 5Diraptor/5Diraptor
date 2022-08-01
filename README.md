@@ -27,6 +27,14 @@
   </tr>
 </tbody></table>
 
+
+
+<a href="https://stackexchange.com/users/6884291/5diraptor"><img src="https://stackexchange.com/users/flair/6884291.png" width="208" height="58" alt="profile for 5Diraptor on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for 5Diraptor on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+
+
+
+
 ### Shout out
 🌟🥑[Here's a shout out to a few projects that I think are particularly outstanding.](https://github.com/stars/5Diraptor/lists/shout-out "Seriously, some projects here on github have saved my arse, if I meet the creators in person I'd give them a jolly good hearty slap on the back."). 💎⭐
 
