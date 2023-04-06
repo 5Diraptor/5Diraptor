@@ -1,5 +1,5 @@
 <span>
-	<img style="height:60px; width:60px; " src="https://5diraptor.com/wp-content/uploads/2021/05/Asset-3.png">
+	<img style="height:60px; width:60px; " src="https://avatars.githubusercontent.com/u/22928943?s=96&v=4">
 	<img style="height:60px; width:auto; " src="https://github.com/5Diraptor/5Diraptor/raw/main/readme.svg">
 </span>
 
